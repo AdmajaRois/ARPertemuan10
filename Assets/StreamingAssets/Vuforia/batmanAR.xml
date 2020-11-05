@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="hulkbuster" size="50.000000 25.000000" />
+    <ImageTarget name="ironman2" size="50.000000 50.000000" />
+    <ImageTarget name="hulk" size="50.000000 50.000000" />
+    <ImageTarget name="akuadalahbatman" size="50.000000 23.344372" />
+  </Tracking>
+</QCARConfig>
